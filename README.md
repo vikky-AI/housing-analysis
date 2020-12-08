@@ -3,7 +3,7 @@ prediction of prices for Melbourne
 the data is available in kaggle please access through link:-https://www.kaggle.com/anthonypino/melbourne-housing-market
 i haven't done split code you can parse html to ipynb and run with data 
 
-# from analyticsvidhya
+# the following definations curated from analyticsvidhya website
 
 https://analyticsindiamag.com/why-is-random-search-better-than-grid-search-for-machine-learning/
 
